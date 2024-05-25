@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-tailwind-data-finance-landing-page/static/css/main.733833d8.css",
+    "main.js": "/react-tailwind-data-finance-landing-page/static/js/main.44ff176d.js",
+    "static/media/single.png": "/react-tailwind-data-finance-landing-page/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/react-tailwind-data-finance-landing-page/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/react-tailwind-data-finance-landing-page/static/media/triple.4eb8f19f4b4647321484.png",
+    "static/media/laptop.png": "/react-tailwind-data-finance-landing-page/static/media/laptop.3ecf32efd4cdc9773468.png",
+    "index.html": "/react-tailwind-data-finance-landing-page/index.html",
+    "main.733833d8.css.map": "/react-tailwind-data-finance-landing-page/static/css/main.733833d8.css.map",
+    "main.44ff176d.js.map": "/react-tailwind-data-finance-landing-page/static/js/main.44ff176d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.733833d8.css",
+    "static/js/main.44ff176d.js"
+  ]
+}
